@@ -109,7 +109,7 @@ aside {
 
 
 header {
-    height: calc(100vh - 115px);
+    height: calc(100vh - 300px);
     position: relative;
     width: 100%;
     min-height: auto;
